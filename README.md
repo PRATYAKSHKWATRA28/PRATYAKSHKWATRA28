@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRATYAKSHKWATRA28
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently using Python
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me Pratyakshkwatra@gmail.com
 
